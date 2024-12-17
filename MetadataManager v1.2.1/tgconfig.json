@@ -1,0 +1,15 @@
+{
+
+  "generationSpecs": [
+    "TypescriptClientCodeGenerator"
+  ],
+  "fileNameConverters": [
+    "PascalCaseToCamelCaseConverter"
+  ],
+  "typeNameConverters": [
+    "PascalCaseToCamelCaseConverter"
+  ],
+  "externalAssemblyPaths": [
+    "./bin/Debug/net7.0/"
+  ]
+}
